@@ -20,7 +20,7 @@ This script includes comments to explain each part of the code.
 3. Navigate to the folder containing the script.
 4. Run the script:
     ```bash
-    ping_with_comments.bat
+    ping_log_with_comments.bat
     ```
 
 ### ping_without_comments.bat
@@ -32,7 +32,7 @@ This script is a streamlined version without comments.
 3. Navigate to the folder containing the script.
 4. Run the script:
     ```bash
-    ping_without_comments.bat
+    ping_log_without_comments.bat
     ```
 
 ## Contributing
