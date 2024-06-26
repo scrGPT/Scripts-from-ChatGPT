@@ -1,4 +1,4 @@
-# Contributing to My Script and Project Collection
+# Contributing to My ScriptHub
 
 Thank you for considering contributing to this repository! Here are some guidelines to follow:
 
