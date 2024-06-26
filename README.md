@@ -20,7 +20,7 @@ This script includes comments to explain each part of the code.
 3. Navigate to the folder containing the script.
 4. Run the script:
     ```bash
-    ping_log_with_comments.bat
+    ping_with_comments.bat
     ```
 
 ### ping_without_comments.bat
@@ -32,7 +32,7 @@ This script is a streamlined version without comments.
 3. Navigate to the folder containing the script.
 4. Run the script:
     ```bash
-    ping_log_without_comments.bat
+    ping_without_comments.bat
     ```
 
 ## Contributing
@@ -42,6 +42,8 @@ Contributions are welcome! Please follow these guidelines for contributing:
 3. Make your changes and commit them with descriptive messages.
 4. Push your changes to your fork.
 5. Submit a pull request.
+
+For more details, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
