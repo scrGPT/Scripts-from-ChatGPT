@@ -1,4 +1,4 @@
-# My Script and Project Collection
+# ScriptHub
 
 ## Description
 Welcome to my repository of useful scripts. This collection currently includes batch scripts for pinging a host continuously and logging the results.
