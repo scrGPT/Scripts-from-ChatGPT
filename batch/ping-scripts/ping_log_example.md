@@ -21,9 +21,11 @@ Alternatively, you can run it from a command prompt:
     ```
 
 ### Example Output
+
 When you run the `ping_log_without_comments.bat` script and enter `google.com` as the host address, it will create a log file named `Log_google.com.log` and continuously log the ping results.
 
 The log file will look something like this:
+
 Target Host = google.com
 
 25-Jun-2024 10:15:30 Reply from 142.250.64.78: bytes=32 time=14ms TTL=117
