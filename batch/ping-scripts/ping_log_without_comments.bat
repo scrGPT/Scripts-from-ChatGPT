@@ -1,13 +1,18 @@
 @echo off
 
-set /p host=host Address: 
+:input
+set /p host=Host Address: 
+
+if "%host%"=="" (
+    echo Invalid input. Please enter a valid IP address or domain name.
+    goto input
+)
+
 set logfile=Log_%host%.log
 
 echo Target Host = %host% >%logfile%
-for /f "tokens=*" %%A in ('ping %host% -n 1 ') do (
-    echo %%A>>%logfile% 
-    GOTO Ping
-)
+
+for /f "tokens=*" %%A in ('ping %host% -n 1 ') do (echo %%A>>%logfile% && GOTO Ping)
 
 :Ping
 for /f "tokens=* skip=2" %%A in ('ping %host% -n 1 ') do (
