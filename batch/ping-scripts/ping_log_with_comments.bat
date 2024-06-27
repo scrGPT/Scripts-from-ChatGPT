@@ -1,6 +1,6 @@
 @echo off
 
-:: Prompt the user for the host address
+:: Prompt the user for the host address; Google's Public DNS: "8.8.8.8"; Google.com
 set /p host=host Address: 
 
 :: Set the name of the log file
