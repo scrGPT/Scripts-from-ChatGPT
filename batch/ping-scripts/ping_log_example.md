@@ -1,4 +1,4 @@
-# Examples for Ping Scripts
+# Examples for Ping Log Script
 
 ## ping_log_without_comments.bat
 
