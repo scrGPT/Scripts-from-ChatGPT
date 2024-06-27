@@ -8,18 +8,6 @@ This script pings a specified host continuously and logs the results without any
 ### Full Code
 You can find the full code [here](ping_log_without_comments.bat).
 
-### Usage
-1. Download the script.
-2. Double-click the `.bat` file to run it.
-
-Alternatively, you can run it from a command prompt:
-1. Open a command prompt.
-2. Navigate to the folder containing the script.
-3. Run the script:
-    ```bash
-    ping_log_without_comments.bat
-    ```
-
 ### Example Output
 
 When you run the `ping_log_without_comments.bat` script and enter `google.com` as the host address, it will create a log file named `Log_google.com.log` and continuously log the ping results.
