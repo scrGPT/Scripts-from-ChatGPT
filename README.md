@@ -11,7 +11,7 @@ Welcome to my repository of useful scripts. This collection currently includes b
 ## Ping Scripts
 This folder contains batch scripts for pinging a host continuously and logging the results.
 
-### ping_with_comments.bat
+### ping_log_with_comments.bat
 This script includes comments to explain each part of the code.
 
 #### Usage
@@ -23,10 +23,10 @@ Alternatively, you can run it from a command prompt:
 2. Navigate to the folder containing the script.
 3. Run the script:
     ```bash
-    ping_with_comments.bat
+    ping_log_with_comments.bat
     ```
 
-### ping_without_comments.bat
+### ping_log_without_comments.bat
 This script is a streamlined version without comments.
 
 #### Usage
@@ -38,7 +38,7 @@ Alternatively, you can run it from a command prompt:
 2. Navigate to the folder containing the script.
 3. Run the script:
     ```bash
-    ping_without_comments.bat
+    ping_log_without_comments.bat
     ```
 
 ## Contributing
