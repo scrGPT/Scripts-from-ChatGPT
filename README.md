@@ -16,9 +16,12 @@ This script includes comments to explain each part of the code.
 
 #### Usage
 1. Download the script.
-2. Open a command prompt.
-3. Navigate to the folder containing the script.
-4. Run the script:
+2. Double-click the `.bat` file to run it.
+
+Alternatively, you can run it from a command prompt:
+1. Open a command prompt.
+2. Navigate to the folder containing the script.
+3. Run the script:
     ```bash
     ping_with_comments.bat
     ```
@@ -28,9 +31,12 @@ This script is a streamlined version without comments.
 
 #### Usage
 1. Download the script.
-2. Open a command prompt.
-3. Navigate to the folder containing the script.
-4. Run the script:
+2. Double-click the `.bat` file to run it.
+
+Alternatively, you can run it from a command prompt:
+1. Open a command prompt.
+2. Navigate to the folder containing the script.
+3. Run the script:
     ```bash
     ping_without_comments.bat
     ```
