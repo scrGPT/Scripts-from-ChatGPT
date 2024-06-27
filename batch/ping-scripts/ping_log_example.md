@@ -1,6 +1,6 @@
 # Examples for Ping Log Script
 
-## [ping_log_without_comments.bat](/ping_log_without_comments.bat)
+## [ping_log_without_comments.bat](batch/ping-scripts/ping_log_without_comments.bat)
 
 ### Description
 This script pings a specified host continuously and logs the results without any comments in the script for simplicity.
