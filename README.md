@@ -41,7 +41,7 @@ Alternatively, you can run it from a command prompt:
     ping_log_without_comments.bat
     ```
 
-For example usage and output, refer to the [EXAMPLES.md](batch/ping-scripts/ping_log_example.md) file in the `ping-scripts` folder.
+For example usage and output, refer to the [ping_log_example.md](batch/ping-scripts/ping_log_example.md) file in the `ping-scripts` folder.
 
 ## Contributing
 Contributions are welcome! Please follow these guidelines for contributing:
