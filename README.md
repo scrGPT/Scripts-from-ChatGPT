@@ -1,10 +1,11 @@
 # My ScriptHub
 
 ## Description
-Welcome to my repository of useful scripts. This collection currently includes batch scripts for pinging a host continuously and logging the results.
+Welcome to my repository of useful scripts. This collection currently includes batch scripts for pinging a host continuously and logging the results, as well as an interactive HTML Image Reveal Game.
 
 ## Table of Contents
 - [Ping Scripts](#ping-scripts)
+- [HTML Image Reveal Game](#html-image-reveal-game)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -42,6 +43,15 @@ Alternatively, you can run it from a command prompt:
     ```
 
 For example usage and output, refer to the [ping_log_example.md](batch/ping-scripts/ping_log_example.md) file in the `ping-scripts` folder.
+
+## HTML Image Reveal Game
+An interactive HTML game where users can click to reveal parts of an image. The game is implemented using HTML, CSS, and JavaScript.
+
+- **index.html**: Main HTML file for the game.
+- **style.css**: CSS file for styling.
+- **script.js**: JavaScript file for game logic.
+
+Explore the game [here](https://github.com/scrGPT/Scripts-from-ChatGPT/tree/main/HTML/Image%20reveal%20game).
 
 ## Contributing
 Contributions are welcome! Please follow these guidelines for contributing:
